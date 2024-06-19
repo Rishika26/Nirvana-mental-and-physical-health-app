@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489591389747",
+    "project_id": "nirwana-fe3f5",
+    "storage_bucket": "nirwana-fe3f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489591389747:android:8b8a9e422c63120967ad46",
+        "android_client_info": {
+          "package_name": "com.mysteriouscoder.physicalandmentalhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_YfE9G7fr07uxDBRwyXnufDUXzU1Hnk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

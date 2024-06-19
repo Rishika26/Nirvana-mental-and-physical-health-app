@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PhysicalAndMentalHealth" parent="android:Theme.Material.Light.NoActionBar" >
+
+    </style>
+
+<!--    <style name="splashScreenTheme" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">-->
+<!--            @color/app_bg_pink-->
+<!--        </item>-->
+<!--        &lt;!&ndash;        Defining Background Color of the Splash Screen&ndash;&gt;-->
+<!--        <item name="windowSplashScreenAnimatedIcon">-->
+<!--            @drawable/appicon-->
+<!--        </item>-->
+<!--        <item name="postSplashScreenTheme">-->
+<!--            @style/Theme.PhysicalAndMentalHealth-->
+<!--        </item>-->
+
+<!--        &lt;!&ndash;        Defining SplashScreen logo&ndash;&gt;-->
+
+
+<!--    </style>-->
+
+
+</resources>
